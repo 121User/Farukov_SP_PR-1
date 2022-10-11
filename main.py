@@ -1,0 +1,1 @@
+# Задания представлены в файлах Script1 и Script2 в папке Farukov_SP_PR-1\venv\Scripts
