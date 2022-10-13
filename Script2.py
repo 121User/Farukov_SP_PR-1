@@ -1,5 +1,5 @@
 try:
-    file = open('Info.txt', 'r')
+    file = open('venv/Scripts/Info.txt', 'r')
     fileR = file.read()
     if fileR == '':
         raise Exception

@@ -11,7 +11,7 @@ def ChekInt(string):
 
 while True:
     try:
-        file = open('Info.txt', 'a')
+        file = open('venv/Scripts/Info.txt', 'a')
 
         lastName, firstName, patronymic, year = input("Введите ФИО и год рождения: ").split()
         year = int(year) #ValueError
